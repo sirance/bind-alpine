@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.11.6
 
 MAINTAINER Simon Rance <sirance@gmail.com>
 
